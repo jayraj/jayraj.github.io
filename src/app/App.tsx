@@ -183,7 +183,8 @@ export default function App() {
             style={{ color: "rgba(28,28,40,0.45)" }}
             onMouseEnter={(e) => (e.currentTarget.style.color = PRIMARY)}
             onMouseLeave={(e) => (e.currentTarget.style.color = "rgba(28,28,40,0.45)")}
-          >Jay Raj Bhatta
+          >
+            Jay Raj Bhatta
           </button>
 
           <div className="hidden md:flex items-center gap-8">
@@ -287,7 +288,7 @@ export default function App() {
           >
             I design,<br />
             <span style={{ color: PRIMARY }}>build</span> &amp; ship<br />
-            digital products.
+            digital products..
           </h1>
 
           <p className="max-w-lg text-base md:text-lg leading-relaxed mb-10" style={{ color: FG_MED }}>
