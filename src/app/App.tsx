@@ -288,7 +288,7 @@ export default function App() {
           >
             I design,<br />
             <span style={{ color: PRIMARY }}>build</span> &amp; ship<br />
-            digital products..
+            digital products.
           </h1>
 
           <p className="max-w-lg text-base md:text-lg leading-relaxed mb-10" style={{ color: FG_MED }}>
